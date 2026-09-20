@@ -1,0 +1,13 @@
+date,shift,process,scheduled_headcount,present_headcount,labor_hours,units_processed,planned_units,backlog_units
+2026-09-01,Morning,Inbound,20,19,152,3800,4000,450
+2026-09-01,Morning,Picking,32,29,232,5100,5600,780
+2026-09-01,Morning,Packing,25,24,192,4700,4800,320
+2026-09-01,Night,Inbound,18,16,128,2950,3400,610
+2026-09-01,Night,Picking,28,25,200,4100,4900,920
+2026-09-01,Night,Packing,22,20,160,3650,4200,540
+2026-09-02,Morning,Inbound,20,20,160,4100,4000,300
+2026-09-02,Morning,Picking,32,30,240,5400,5600,650
+2026-09-02,Morning,Packing,25,23,184,4500,4800,410
+2026-09-02,Night,Inbound,18,17,136,3200,3400,520
+2026-09-02,Night,Picking,28,24,192,3900,4900,1080
+2026-09-02,Night,Packing,22,21,168,3920,4200,460
